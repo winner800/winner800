@@ -10,7 +10,7 @@
   <img alt="parrots" src="https://github.com/kovsu/kovsu/raw/main/parrots/wave9parrot.gif" />
 </p>
 
-## Hi there 👋
+##                                      Hi there 👋
 
 <!--
 **winner800/winner800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
